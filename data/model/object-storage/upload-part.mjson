@@ -1,0 +1,30 @@
+{
+    "root": {
+        "prototype": "mod/core/meta/module-object-descriptor",
+        "values": {
+            "name": "UploadPart",
+            "propertyDescriptors": [
+                {"@": "identifier"}
+            ],
+            "objectDescriptorModule": {
+                "%": "./upload-part.mjson"
+            },
+            "exportName": "UploadPart",
+            "module": {
+                "%": "./upload-part"
+            },
+            "parent":{"@": "objectDescriptor"}
+        }
+    },
+    "ObjectDescriptor": {
+        "object": "mod/data/model/data-object.mjson"
+    },
+    "identifier": {
+        "prototype": "mod/core/meta/property-descriptor",
+        "values": {
+            "name": "identifier",
+            "valueType": "string"
+        }
+    }
+
+}

@@ -1,0 +1,30 @@
+{
+    "root": {
+        "prototype": "mod/core/meta/module-object-descriptor",
+        "values": {
+            "name": "Bucket",
+            "propertyDescriptors": [
+                {"@": "name"}
+            ],
+            "objectDescriptorModule": {
+                "%": "./bucket.mjson"
+            },
+            "exportName": "Bucket",
+            "module": {
+                "%": "./bucket"
+            },
+            "parent":{"@": "ObjectDescriptor"}
+        }
+    },
+    "ObjectDescriptor": {
+        "object": "mod/data/model/data-object.mjson"
+    },
+    "name": {
+        "prototype": "mod/core/meta/property-descriptor",
+        "values": {
+            "name": "name",
+            "valueType": "string"
+        }
+    }
+
+}
