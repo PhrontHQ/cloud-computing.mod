@@ -1,5 +1,5 @@
 /**
-    @module cloud-computing.mod/data/model/object-storage/tag
+    @module cloud.mod/data/model/object-storage/tag
 */
 
 var DataObject = require("mod/data/model/data-object").DataObject;

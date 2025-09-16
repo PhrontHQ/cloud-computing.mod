@@ -1,5 +1,5 @@
 /**
-    @module cloud-computing.mod/data/model/object-storage/upload-part
+    @module cloud.mod/data/model/object-storage/upload-part
 */
 
 

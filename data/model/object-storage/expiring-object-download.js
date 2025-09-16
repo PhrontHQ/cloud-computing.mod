@@ -1,5 +1,5 @@
 /**
-    @module cloud-computing.mod/data/model/object-storage/expiring-object-download
+    @module cloud.mod/data/model/object-storage/expiring-object-download
 */
 
 var DataObject = require("mod/data/model/data-object").DataObject;

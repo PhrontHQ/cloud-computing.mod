@@ -1,2 +1,2 @@
-# cloud-computing.mod
+# cloud.mod
 Project providing data object, converter and component mods common to cloud computing platforms such as AWS, GCP, Azure, etc...
